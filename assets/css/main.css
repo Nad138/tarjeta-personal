@@ -1,0 +1,10 @@
+body{
+  background-image: url("../img/fondo-tarjeta.jpg");
+  background-repeat: no-repeat;
+}
+div{ 
+  background-color: #E0ECFF;
+}
+div{
+  background-color: transparent;
+}
