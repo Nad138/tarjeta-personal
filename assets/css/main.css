@@ -1,5 +1,5 @@
 .tarjeta{
-  background-image: url("../img/fondo.jpg");
+  background: url("../img/fondo.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -7,21 +7,19 @@
   margin-top: 100px;
   height: 400px;
   width: 700px;
-
-
 }
 .coder{
-  color: teal;
+  color: white;
   text-align: right;
+  margin-right: 150px;
 }
 .datos{
   color: orange;
   text-align: right;
+  margin-right: 150px;
+  margin-top: 30px;
 }
-.logo{
-  position: relative;
-  margin-right: 0;
-}
+
 
 .laboratoria img{
   width: 200px;
@@ -32,6 +30,7 @@
   height: 100px;
   margin-bottom: 0;
   margin-right: 0;
+  text-align: right;
 }
 span{
   display: block;
